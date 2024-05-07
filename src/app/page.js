@@ -26,7 +26,7 @@ export default async function Home() {
       <header className="container p-10">
         <nav className="flex gap-5 flex-wrap">
           <h1 className="font-bold">Eray Chumak</h1>
-          <Link className="hover:underline text-blue-600" href={"https://github.com/eraychumak/"}>Github</Link>
+          <Link className="hover:underline text-blue-600" href={"https://github.com/eraychumak/"}>GitHub</Link>
           <Link className="hover:underline text-blue-600" href={"https://www.linkedin.com/in/eray-chumak/"}>LinkedIn</Link>
           <Link className="hover:underline text-blue-600" href={"mailto:eraychumak_@outlook.com"}>eraychumak_@outlook.com</Link>
         </nav>
