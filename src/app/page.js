@@ -51,6 +51,18 @@ export default async function Home() {
                 <h3 className="font-medium text-lg">Mortgage repayment calculator</h3>
                 <Image src={MRC} className="rounded-lg w-auto" alt="Profile picture"/>
                 <p>An open-source native web component that can be embeded on websites.</p>
+                <Link
+                  href={"https://www.figma.com/file/erGTy9NyZK0YKWCaLYnxV6/Mortgage-Calculator?type=design&node-id=0%3A1&mode=design&t=dsygip5T0qAbVzEJ-1"}
+                  className="hover:underline text-blue-600"
+                >
+                  Preview Figma designs
+                </Link>
+                <Link
+                  href={"https://github.com/eraychumak/mortgageRepaymentCalculator"}
+                  className="hover:underline text-blue-600"
+                >
+                  Visit GitHub repository
+                </Link>
               </article>
               <article className="container flex max-w-m flex-col gap-5">
                 <h3 className="font-medium text-lg">Local business redesign</h3>
