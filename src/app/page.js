@@ -75,6 +75,17 @@ export default async function Home() {
               </article>
             </section>
           </section>
+          <section>
+            <h2 className="font-bold mb-2 text-xl">Timeline</h2>
+            <ul className="container flex flex-col gap-2">
+              <li>2024. Certificate. Microsoft AI-900 for Principles, Vision, and Natural Language.</li>
+              <li>2023. Placement. React Native Developer at Lancashire Constabulary (DMIU).</li>
+              <li>2022. Certificate. Microsoft SC-900 for Security, Compliance, and Identity Fundamentals.</li>
+              <li>2022. Certificate. Google for Fundamentals of Digital Marketing.</li>
+              <li>2021. Enrolled. at Edge Hill University, for the Web Design & Development degree.</li>
+              <li>2018-20. Ada National College for Digital Skills.</li>
+            </ul>
+          </section>
         </section>
         <section className="container flex flex-col p-10 gap-10">
           <section>
